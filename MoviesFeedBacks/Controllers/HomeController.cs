@@ -15,14 +15,14 @@ namespace MoviesFeedBacks.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page.as dfas df ";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page.asd fsaf sadf ";
 
             return View();
         }
